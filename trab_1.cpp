@@ -1,6 +1,6 @@
 /*
     Gabriel Rodrigues Malaquias - 758906
-    Trabalho 1 de PAA - seleção do n-ésimo menor número em um vetor desordenado.
+    Trabalho 1 de PAA - seleção do n-ésimo maior número em um vetor desordenado.
 */
 
 
